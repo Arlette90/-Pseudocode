@@ -1,0 +1,32 @@
+Start 
+Get biggest Number 
+enter positive Number
+output the largest number 
+end
+
+
+request name 
+store imput into a variable called first_name
+print out first_name along with {hello world}
+end
+
+
+start 
+read integer x
+returen average
+end 
+
+create list called {still left to buy}
+add item's to list that still needs to be bought 
+sort items in alphabetical order that still need to be bought 
+end
+
+
+{Start}
+Read A                A=500
+Read B                B=500
+Calculate sum A+B
+end
+
+
+
